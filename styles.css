@@ -1,0 +1,17 @@
+html,body {
+	background-color: white; }
+
+#time{
+   color: blue;
+   font-size: 200px;
+   text-align: center;  
+
+}
+.down{
+line-height: 20cm;
+
+}
+
+#h1{
+	background-color: black;
+}
